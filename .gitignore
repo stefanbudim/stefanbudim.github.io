@@ -1,3 +1,5 @@
+# posts
+_posts/*TEMPLATE*md
 # Bundler cache
 .bundle
 vendor
