@@ -17,11 +17,11 @@ timezone: Europe/Berlin
 title: Stefan Budim
 # the main title (in let navigatoin)
 
-tagline: Share Knowledge<br>Be Helpful to Others<br>Show Your Work
+tagline: Share Knowledge.<br>Be Helpful to Others.<br>Show Your Work.
 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Share Knowledge, Technical Blogging, Tutorials, Sheat Cheets
+  Share Knowledge, Technical Blogging, Tutorials, Sheat Cheets, DevOps, Linux, Docker, Kubernetes
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.

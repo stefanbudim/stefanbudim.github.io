@@ -4,13 +4,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Hi I'm Stefan Budim,
+Welcome to my tech blog!
 
-a DevOps Engineer who likes to write documentation.
+Time is valuable. That's why I provide concise, insightful posts that get straight to the point.
 
-Here I will create regular tech content and try to contribute to communities and open source.
+I believe in simplicity, clarity, and actionable content.
 
-## Contact Me
-If you have any questions, feedback, or suggestions regarding this blog or its content, the best way to reach me is by opening an issue on the [GitHub repository](https://github.com/stefanbudim/feedback/issues/new). This allows for organized communication and tracking of inquiries. Also [Discussions](https://github.com/stefanbudim/feedback/discussions) are enabled.
+Let's navigate the world of tech together!
 
-I plan to add more contact options, such as social media links, in the future.
+
+# Contact Me
+Feel free to reach out if you'd like to collaborate or discuss exciting topics.
+
+If you have any questions, feedback, or suggestions please open an issue in my [GitHub repository](https://github.com/stefanbudim/feedback/issues/new) or use [Discussions](https://github.com/stefanbudim/feedback/discussions).
+
+Happy learning!
