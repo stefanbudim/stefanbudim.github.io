@@ -1,17 +1,12 @@
 ---
-title: "Jinja: minijinja-cli to render templates from the command-line without a python installation"
+title: "Jinja from the command-line without python"
 categories: [linux, kubernetes]
 tags: [linux, kubernetes]     # TAG names should always be lowercase
 ---
 
 [minijinja-cli](https://crates.io/crates/minijinja-cli) is a CLI tool to render [Jinja2](https://jinja.palletsprojects.com/en/stable/) templates.
 
-Jinja2 is very powerfull for system admins to generate config files or kubernetes descriptors.
-
-Jinja2 dependends on python and python packages. In enterprise environments it can hurt to maintain these dependencies.
-
-minijinja-cli is a rust implementation of Jinja without such dependencies.
-
+Jinja2 is very powerfull for system admins to generate config files or kubernetes descriptors. Jinja2 dependends on python and python packages. In enterprise environments it can hurt to maintain these dependencies. minijinja-cli is a rust implementation of Jinja without such dependencies.
 
 # Features
 - single command line execution
